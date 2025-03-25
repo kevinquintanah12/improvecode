@@ -1,0 +1,2 @@
+9e009cc - kevinquintanah12, 2025-03-24 : Commit : Código modificado sin smell code
+6c8539c - kevinquintanah12, 2025-03-24 : Commit inicial: Código original sin modificaciones
